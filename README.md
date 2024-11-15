@@ -23,7 +23,7 @@ The dataset "employee layoffs" have the following fields:
 
 ## Process
 ### Importing Data
-- Imported the dataset [layoffs]() into MySQL database.
+- Imported the dataset [layoffs](https://github.com/kevinmartis/MySQL-Data-Cleaning-Project/blob/26b38fb9b4c364486a0aeb26b16566cbac7f28c9/layoffs.csv) into MySQL database.
 - Using the Table-Data import wizard, the data was loaded into the database.
 
 ### Data Exploration
@@ -161,4 +161,4 @@ DROP COLUMN row_num;
 ```
 
 ### Cleaned Dataset
-- [clean dataset]()
+- [clean dataset](https://github.com/kevinmartis/MySQL-Data-Cleaning-Project/blob/26b38fb9b4c364486a0aeb26b16566cbac7f28c9/layoffs%20(cleaned).csv)
